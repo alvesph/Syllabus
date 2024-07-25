@@ -6,10 +6,9 @@ As a software engineer focusing on DevOps and DataOps, this study plan offers a 
 
 ## Daily Logs
 
-### July 2024
+### 2024
 
-- [25/07](logs/2024-07-25.md)
-- [24/07](logs/2024-07-24.md)
+- [Jul/2024](logs/2024-07.md)
 
 <!-- Add more links here for each day -->
 
